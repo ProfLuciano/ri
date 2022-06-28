@@ -1,25 +1,28 @@
 data,aula
 2021-06-27,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/introducao.pdf">Introdução ao curso</a>
 2021-06-29,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/funcionamento_eb.pdf">Funcionamento de Engenhos de Busca</a>   
-2021-09-27,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/crawling.pdf">Crawling</a> 
-2021-09-29,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/processamento_texto.pdf">Processamento de Texto</a> 
-2021-10-04,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/classificacao.pdf">	Classificação de Texto na Prática</a> 
-2021-10-06,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/extracao_texto.pdf">Extração de Dados na Web e Definição do Projeto 1</a>
-2021-10-11,Acompanhamento
-2021-10-13,Acompanhamento
-2021-10-18,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/indexing.pdf">Indexação de Texto</a> 
-2021-10-20,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/ir_models.pdf">Modelos de RI</a> 
-2021-10-25,Acompanhamento
-2021-10-27,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/ranking.pdf">Ranking e Processamento de Consultas</a> 
-2021-11-01,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/query_refinement.pdf">Refinamento de Consulta</a>
-2021-11-03,Acompanhamento
-2021-11-08,Acompanhamento
-2021-11-10,Apresentação do primeiro projeto 
-2021-11-17,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/avaliacao_ri.pdf">Avaliação de Sistemas de RI</a> e <a href="https://github.com/ProfLuciano/ri/blob/main/slides/link_analysis.pdf">Análise de Links</a> 
-2021-11-22,Acompanhamento
-2021-11-24,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/social_search.pdf">Social Search</a> e <a href="https://github.com/ProfLuciano/ri/blob/main/slides/web_ir.pdf">RI na Web e Definição do Projeto 2</a> 
-2021-11-29,Acompanhamento
-2021-12-01,Acompanhamento
-2021-12-06,Acompanhamento
-2021-12-13,Apresentação do segundo projeto 
-2021-12-20,Final
+2022-07-04,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/crawling.pdf">Crawling</a> 
+2022-07-06,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/processamento_texto.pdf">Processamento de Texto</a> 
+2022-07-11,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/classificacao.pdf">	Classificação de Texto na Prática</a> 
+2022-07-13,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/extracao_texto.pdf">Extração de Dados na Web e Definição do Projeto 1</a>
+2022-07-18,Acompanhamento
+2022-07-20,Acompanhamento
+2022-07-25,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/indexing.pdf">Indexação de Texto</a> 
+2022-07-27,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/ir_models.pdf">Modelos de RI</a> 
+2022-08-01,Acompanhamento
+2022-08-03,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/ranking.pdf">Ranking e Processamento de Consultas</a> 
+2022-08-08,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/query_refinement.pdf">Refinamento de Consulta</a>
+2022-08-10,Acompanhamento
+2022-08-15,Acompanhamento
+2022-08-17,Entrega do primeiro projeto 
+2022-08-22,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/avaliacao_ri.pdf">Avaliação de Sistemas de RI</a> 
+2022-08-24,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/web_ir.pdf">RI na Web e Definição do Projeto 2</a> 
+2022-08-29,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/social_search.pdf">Social Search</a>
+2022-08-31,<a href="https://github.com/ProfLuciano/ri/blob/main/slides/link_analysis.pdf">Análise de Links</a>
+2022-09-05,Acompanhamento
+2022-09-12,Acompanhamento
+2022-09-14,Acompanhamento
+2022-09-19,Acompanhamento
+2022-09-21,Acompanhamento
+2022-09-28,Entrega do segundo projeto 
+2022-10-03,Final
